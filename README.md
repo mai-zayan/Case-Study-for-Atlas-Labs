@@ -161,3 +161,47 @@ AVERAGEX(
 | **Salary**       | Compensation info         | EmployeeID, Salary, Ethnicity                        |
 | **Attrition**    | Employment exit data      | EmployeeID, Attrition, HireDate, TerminationDate     |
 
+🚀 How to Use
+
+Clone this repository
+
+git clone https://github.com/mai-zayan/Case-Study-for-Atlas-Labs
+
+
+Open in Power BI Desktop
+
+Case Study - Atlas Labs.pbix
+
+
+Refresh Data (if needed)
+
+Go to Home → Transform Data → Data Source Settings
+
+Update dataset path if necessary
+
+Click Refresh All
+
+Explore Dashboards
+
+Overview
+
+Demographics
+
+Performance Tracker
+
+Attrition
+
+📁 Repository Structure
+├── Case Study - Atlas Labs.pbix       # Power BI dashboard file
+├── overview.jpg                       # Overview page screenshot
+└── README.md                          # Project documentation
+
+👨‍💻 Author
+
+Name: Mai Zayan
+
+
+🪪 License
+
+This project is licensed under the MIT License
+.
