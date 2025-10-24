@@ -30,7 +30,7 @@ The dashboard is divided into **four main sections**:
 - Active Employees by Department & Job Role
 
 📸 *Sample Screenshot:*  
-![Overview](Screenshot%202025-10-24%20171819.jpg)
+https://github.com/mai-zayan/Case-Study-for-Atlas-Labs/blob/main/overview.jpg
 
 ---
 
