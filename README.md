@@ -29,8 +29,8 @@ The dashboard is divided into **four main sections**:
 - Hiring Trends (2012–2022)
 - Active Employees by Department & Job Role
 
-📸 *Sample Screenshot:*  
-https://github.com/mai-zayan/Case-Study-for-Atlas-Labs/blob/main/overview.jpg
+![overview](https://github.com/user-attachments/assets/773b419f-66af-4382-8e94-be94f5538ede)
+
 
 ---
 
@@ -41,8 +41,8 @@ https://github.com/mai-zayan/Case-Study-for-Atlas-Labs/blob/main/overview.jpg
 - Marital Status Composition  
 - Ethnicity vs. Average Salary
 
-📸 *Sample Screenshot:*  
-![Demographics](Screenshot%202025-10-24%20171917.jpg)
+![demographics](https://github.com/user-attachments/assets/dca18228-68be-406e-bdc1-38aa63367491)
+
 
 ---
 
@@ -55,8 +55,9 @@ Track satisfaction and engagement metrics over time:
 - Relationship Satisfaction  
 - Manager Rating  
 
-📸 *Sample Screenshot:*  
-![Performance Tracker](Screenshot%202025-10-24%20171950.jpg)
+![performance tracker](https://github.com/user-attachments/assets/a77f9730-1b6e-47a6-9a4a-c06390763e42)
+ 
+
 
 ---
 
@@ -68,8 +69,8 @@ Gain insights into employee turnover patterns:
 - Attrition by Hire Date  
 - Attrition by Tenure  
 
-📸 *Sample Screenshot:*  
-![Attrition](Screenshot%202025-10-24%20172021.jpg)
+![attrition](https://github.com/user-attachments/assets/de70f562-db1b-4c8e-8aa6-a82fb3f26bbe)
+
 
 ---
 
@@ -89,20 +90,6 @@ The **Atlas Labs HR Dashboard** provides actionable insights into workforce dyna
 | 💸 **Salary Gap** | Notable variation in **average salary** across different ethnicities and roles. |
 
 These insights enable the HR team to **predict employee turnover** and **improve engagement strategies**.
-
----
-
-## 🧠 Learning Outcomes
-
-Through this project, I strengthened my **Power BI development and analytical skills**, learning how to:
-
-- 🧩 Design an **interactive multi-page dashboard** using Power BI Desktop  
-- 🔍 Clean and transform raw data using **Power Query**  
-- 🧮 Create **custom DAX measures** for HR analytics KPIs  
-- 🧠 Build a **relational data model** with star schema design  
-- 📊 Visualize metrics for **employee engagement**, **attrition**, and **performance**  
-- ⚡ Optimize report performance and interactivity with filters and slicers  
-- 🧾 Document analytical findings and business insights professionally  
 
 ---
 
